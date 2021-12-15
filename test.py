@@ -1,5 +1,6 @@
 # integer
 number = 5
+age = 21
 
 # float
 fnumber = 5.7
@@ -11,7 +12,7 @@ name = "Nikita"
 status = True
 
 # Output
-print(status)
-print(name)
-print(number)
-print(fnumber)
+print('My name is ' + name)
+
+# Types Conversion (integer to string)
+print('I am ' + str(age))
