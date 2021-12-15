@@ -20,4 +20,4 @@ status = True
 # input
 name2 = input('Enter your name')
 age2 = input('Enter your age')
-print('Hi, My name is ' + name2 + 'I am' + str(age2))
+print('Hi, My name is ' + name2 + 'I am' + age2)
