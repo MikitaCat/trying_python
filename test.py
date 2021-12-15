@@ -12,11 +12,12 @@ name = "Nikita"
 status = True
 
 # Output
-print('My name is ' + name)
+# print('My name is ' + name)
 
 # Types Conversion (integer to string)
-print('I am ' + str(age))
+# print('I am ' + str(age))
 
 # input
-surname = input("Enter your surname ")
-print(surname)
+name2 = input('Enter your name')
+age2 = input('Enter your age')
+print('Hi, My name is ' + name2 + 'I am' + str(age2))
